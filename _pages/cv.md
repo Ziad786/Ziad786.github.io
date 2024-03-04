@@ -62,9 +62,3 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
-
-======
-Download Full leanth CV/Latest CV
-permalink: "/publication/http://academicpages.github.io/files/paper3.pdf"
-
-
