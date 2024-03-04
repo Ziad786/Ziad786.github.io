@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Download Current CV" [academic-cv.pdf]
+title: "Download Current CV" 
 permalink: /cv/
 author_profile: true
 redirect_from:
