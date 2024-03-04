@@ -18,7 +18,7 @@ main:
   #- title: "CV"
   #  url: /cv/
 
-  - title: "Latest CV"
+  - title: "CV"
     url: /files/academic-cv.pdf
     
   # - title: "Guide"
