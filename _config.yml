@@ -23,10 +23,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ziad Rahman Bhuiyan"
-  pronouns         :  #example: "he/his"  
+  pronouns         :  example: "he/his"  
   bio              : "WRITER || ESSAYIST || BLOGGER || SOCIAL WORKER || RESEARCHER || SPORTSMAN || PROGRAMMER || OLYMPIADIAN || PHOTOGRAPHER || ARTIST || CALLIGRAPHER || TRAVELLER"
   location         : "Bangladesh"
-  employer         : "Center for Health Innovation, Research, Action and Learning ‑ Bangladesh (CHIRAL Bangladesh), Stellar Futures Initiative (SFI ‑ X)"
+  employer         : "CHIRAL Bangladesh"
+  employer         : "SFI-X"
   uri              : # URL
   email            : "bhuiyan.zr@gmail.com" 
 
