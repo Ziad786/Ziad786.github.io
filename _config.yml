@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "ZIAD's home"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Ziad Rahman Bhuiyan"
 description              : &description "personal description"
