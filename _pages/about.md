@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Ziad Rahman Bhuiyan. I am the founder of Blind for Education, a non-profit organization dedicated to provide a high-quality education to underprevelige pupils in Bangladesh, and also the founder of SHIELD, a non-profit organization dedicated to work with the poor people of Bangladesh to improve their lifestyle and acheive their basic rights. Additionally, I am also working as a researcher & instructor at [Stellar Futures Initiative, shortly SFI-X](https://stellarfuturesinit.wixsite.com/sfi-x). My professional endeavors aim to maximize the quality of life for individuals by operating at the intersection of education, technology, and health research.
+Hello, I am Ziad Rahman Bhuiyan. I am the founder of [Blind for Education](https://blindforeducation.wordpress.com/), a non-profit organization dedicated to provide a high-quality education to underprevelige pupils in Bangladesh, and also the founder of SHIELD, a non-profit organization dedicated to work with the poor people of Bangladesh to improve their lifestyle and acheive their basic rights. Additionally, I am also working as a researcher & instructor at [Stellar Futures Initiative, shortly SFI-X](https://stellarfuturesinit.wixsite.com/sfi-x). My professional endeavors aim to maximize the quality of life for individuals by operating at the intersection of education, technology, and health research.
 
 I am interested in public health while focusing on bridging the gap between computational and experimental laboratories through highly engaging and fruitful collaborations.
 
