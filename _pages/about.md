@@ -19,12 +19,17 @@ Experience
 **Founder** | [SHIELD] |<br>Dhaka, Bangladesh | (2022 - Present)<br>
 <br>
 **Researcher** | [SFI-X] |<br>Dhaka, Bangladesh | (2023 - Present)<br>
+<br>
 Head of Research Assistant | [SFI-X] |<br>Dhaka, Bangladesh | (2024 - Present)<br>
 Research Associate | [SFI-X] |<br>Dhaka, Bangladesh | (2024 - Present)<br>
 Research Assistant | [SFI-X] |<br>Dhaka, Bangladesh | (2023)<br>
+<br>
 **Junior Researcher** | [Youth Research Journal](https://yrjournal.org/) |<br>Dhaka, Bangladesh | (2023)<br>
-**ASSiSTANT GENERAL SECRETARY** | [GSCPC‑ Government Science College Photography Club](https://www.facebook.com/GSCPC) |<br>Dhaka, Bangladesh | (2022 ‑ 2023)<br>
-**OFFiCE SECRETARY** | [Govt. Science College Debating Club (GSCDC)](https://www.facebook.com/gscdebatingclub) |<br>Dhaka, Bangladesh | (2022 ‑ 2023)<br>
+<br>
+**ASSISTANT GENERAL SECRETARY** | [GSCPC‑ Government Science College Photography Club](https://www.facebook.com/GSCPC) |<br>Dhaka, Bangladesh | (2022 ‑ 2023)<br>
+<br>
+**OFFICE SECRETARY** | [Govt. Science College Debating Club (GSCDC)](https://www.facebook.com/gscdebatingclub) |<br>Dhaka, Bangladesh | (2022 ‑ 2023)<br>
+<br>
 **VOLUNTEER** | [Govt. Science College Wing, Cetona Porishod](https://blindforeducation.wordpress.com/) |<br>Dhaka, Bangladesh | (2022 ‑ 2023)<br>
 
 
