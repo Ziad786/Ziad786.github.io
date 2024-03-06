@@ -30,7 +30,7 @@ Research Assistant | [SFI-X] |<br>Dhaka, Bangladesh | (2023)<br>
 <br>
 **OFFICE SECRETARY** | [Govt. Science College Debating Club (GSCDC)](https://www.facebook.com/gscdebatingclub) |<br>Dhaka, Bangladesh | (2022 ‑ 2023)<br>
 <br>
-**VOLUNTEER** | [Govt. Science College Wing, Cetona Porishod](https://blindforeducation.wordpress.com/) |<br>Dhaka, Bangladesh | (2022 ‑ 2023)<br>
+**VOLUNTEER** | [Govt. Science College Wing, Cetona Porishod](https://www.facebook.com/CetonaparishadGscUnit) |<br>Dhaka, Bangladesh | (2022 ‑ 2023)<br>
 
 
 Getting started
