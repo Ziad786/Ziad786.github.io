@@ -16,6 +16,7 @@ Experience
 ======
 **Founder** | [Blind for Education](https://blindforeducation.wordpress.com/) |<br>Dhaka, Bangladesh | (2017 - Present)<br>
 **Founder** | [SHIELD] |<br>Dhaka, Bangladesh | (2022 - Present)<br>
+------
 **Researcher** | [SFI-X] |<br>Dhaka, Bangladesh | (2023 - Present)<br>
 Head of Research Assistant | [SFI-X] |<br>Dhaka, Bangladesh | (2024 - Present)<br>
 Research Associate | [SFI-X] |<br>Dhaka, Bangladesh | (2024 - Present)<br>
