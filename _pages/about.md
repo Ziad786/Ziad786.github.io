@@ -14,7 +14,16 @@ I am interested in public health while focusing on bridging the gap between comp
 
 Experience
 ======
-**Founder** | [Blind for Education](https://blindforeducation.wordpress.com/) |<br>Dhaka, Bangladesh | (2020 - Present)
+**Founder** | [Blind for Education](https://blindforeducation.wordpress.com/) |<br>Dhaka, Bangladesh | (2017 - Present)
+**Founder** | [SHIELD] |<br>Dhaka, Bangladesh | (2022 - Present)
+**Researcher** | [SFI-X] |<br>Dhaka, Bangladesh | (2023 - Present)
+1. Head of Research Assistant | [SFI-X] |<br>Dhaka, Bangladesh | (2024 - Present)
+1. Research Associate | [SFI-X] |<br>Dhaka, Bangladesh | (2024 - Present)
+1. Research Assistant | [SFI-X] |<br>Dhaka, Bangladesh | (2023)
+**Junior Researcher** | [Youth Research Journal](https://yrjournal.org/) |<br>Dhaka, Bangladesh | (2023)
+**ASSiSTANT GENERAL SECRETARY** | [GSCPC‑ Government Science College Photography Club](https://www.facebook.com/GSCPC) |<br>Dhaka, Bangladesh | (2022 ‑ 2023)
+**OFFiCE SECRETARY** | [Govt. Science College Debating Club (GSCDC)](https://www.facebook.com/gscdebatingclub) |<br>Dhaka, Bangladesh | (2022 ‑ 2023)
+**VOLUNTEER** | [Govt. Science College Wing, Cetona Porishod](https://blindforeducation.wordpress.com/) |<br>Dhaka, Bangladesh | (2022 ‑ 2023)
 
 
 Getting started
