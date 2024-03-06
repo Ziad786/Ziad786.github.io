@@ -14,8 +14,7 @@ I am interested in public health while focusing on bridging the gap between comp
 
 Experience
 ======
-Founder | [Blind for Education](https://blindforeducation.wordpress.com/) |</br>
-Dhaka, Bangladesh | (2020 - Present)
+Founder | [Blind for Education](https://blindforeducation.wordpress.com/) |<br>Dhaka, Bangladesh | (2020 - Present)
 
 
 Getting started
