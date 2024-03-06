@@ -14,16 +14,16 @@ I am interested in public health while focusing on bridging the gap between comp
 
 Experience
 ======
-**Founder** | [Blind for Education](https://blindforeducation.wordpress.com/) |<br>Dhaka, Bangladesh | (2017 - Present)
-**Founder** | [SHIELD] |<br>Dhaka, Bangladesh | (2022 - Present)
-**Researcher** | [SFI-X] |<br>Dhaka, Bangladesh | (2023 - Present)
-Head of Research Assistant | [SFI-X] |<br>Dhaka, Bangladesh | (2024 - Present)
-Research Associate | [SFI-X] |<br>Dhaka, Bangladesh | (2024 - Present)
-Research Assistant | [SFI-X] |<br>Dhaka, Bangladesh | (2023)
-**Junior Researcher** | [Youth Research Journal](https://yrjournal.org/) |<br>Dhaka, Bangladesh | (2023)
-**ASSiSTANT GENERAL SECRETARY** | [GSCPC‑ Government Science College Photography Club](https://www.facebook.com/GSCPC) |<br>Dhaka, Bangladesh | (2022 ‑ 2023)
-**OFFiCE SECRETARY** | [Govt. Science College Debating Club (GSCDC)](https://www.facebook.com/gscdebatingclub) |<br>Dhaka, Bangladesh | (2022 ‑ 2023)
-**VOLUNTEER** | [Govt. Science College Wing, Cetona Porishod](https://blindforeducation.wordpress.com/) |<br>Dhaka, Bangladesh | (2022 ‑ 2023)
+**Founder** | [Blind for Education](https://blindforeducation.wordpress.com/) |<br>Dhaka, Bangladesh | (2017 - Present)<br>
+**Founder** | [SHIELD] |<br>Dhaka, Bangladesh | (2022 - Present)<br>
+**Researcher** | [SFI-X] |<br>Dhaka, Bangladesh | (2023 - Present)<br>
+Head of Research Assistant | [SFI-X] |<br>Dhaka, Bangladesh | (2024 - Present)<br>
+Research Associate | [SFI-X] |<br>Dhaka, Bangladesh | (2024 - Present)<br>
+Research Assistant | [SFI-X] |<br>Dhaka, Bangladesh | (2023)<br>
+**Junior Researcher** | [Youth Research Journal](https://yrjournal.org/) |<br>Dhaka, Bangladesh | (2023)<br>
+**ASSiSTANT GENERAL SECRETARY** | [GSCPC‑ Government Science College Photography Club](https://www.facebook.com/GSCPC) |<br>Dhaka, Bangladesh | (2022 ‑ 2023)<br>
+**OFFiCE SECRETARY** | [Govt. Science College Debating Club (GSCDC)](https://www.facebook.com/gscdebatingclub) |<br>Dhaka, Bangladesh | (2022 ‑ 2023)<br>
+**VOLUNTEER** | [Govt. Science College Wing, Cetona Porishod](https://blindforeducation.wordpress.com/) |<br>Dhaka, Bangladesh | (2022 ‑ 2023)<br>
 
 
 Getting started
