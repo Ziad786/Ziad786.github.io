@@ -33,18 +33,23 @@ Research Assistant | [SFI-X] |<br>Dhaka, Bangladesh | (2023)<br>
 **VOLUNTEER** | [Govt. Science College Wing, Cetona Porishod](https://www.facebook.com/CetonaparishadGscUnit) |<br>Dhaka, Bangladesh | (2022 ‑ 2023)<br>
 
 
-Getting started
-======
-
 
 Skills
 ======
 
 
-Site-wide configuration
+Technical Skills
 ------
-**Native langyage** | [Bengali](https://en.wikipedia.org/wiki/Bengali_language) |
-**Working langyage** | [English](https://en.wikipedia.org/wiki/English_language) |
+1. **Programming Languages:** <br/>HTML<br/>Python<br/>R<br/>C & C++<br/>
+1. **Analytics Softwares:** <br/>Microsoft Excel<br/>R<br/>SPSS<br/>
+1. **Survey Tools:** <br/>RedCap<br/>KoboToolBox<br/>EpiCollect<br/>Google Forms<br/>
+1. **Academic Writing Tools:**<br/>Microsoft Word<br/>Microsoft PowerPoint<br/>Zotero<br/>Mendeley<br/>
+1. **Miscellaneous Skills:**<br/>RStudio<br/>Rmarkdown<br/>Quarto<br/>Version Control(Git)
+
+Language Skills
+------
+**Native language** | [Bengali](https://en.wikipedia.org/wiki/Bengali_language) |
+**Working language** | [English](https://en.wikipedia.org/wiki/English_language) |
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
