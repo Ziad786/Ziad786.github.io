@@ -37,9 +37,14 @@ Getting started
 ======
 
 
-Language Skills
+Skills
 ======
-**Bengali** | [Native langyage](https://en.wikipedia.org/wiki/Bengali_language) |
+
+
+Site-wide configuration
+------
+**Native langyage** | [Bengali](https://en.wikipedia.org/wiki/Bengali_language) |
+**Working langyage** | [English](https://en.wikipedia.org/wiki/English_language) |
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
