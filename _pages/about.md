@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Ziad Rahman Bhuiyan. I am the founder of [Blind for Education](https://blindforeducation.wordpress.com/), a non-profit organization dedicated to provide a high-quality education to underprivileged pupils in Bangladesh, and also I have a non-profit organization named SHIELD that is mainly dedicated to work for the underprivileged poor people of Bangladesh to improve their lifestyle and acheive their basic rights. Additionally, I am also working as a researcher & instructor at Stellar Futures Initiative, shortly [SFI-X](https://stellarfuturesinit.wixsite.com/sfi-x). My professional endeavors aim to maximize the quality of life for individuals by operating at the intersection of education, technology, and health research.
+Hello, I am Ziad Rahman Bhuiyan. I am the founder of [Blind for Education](https://ziad786.github.io), a non-profit organization dedicated to provide a high-quality education to underprivileged pupils in Bangladesh, and also I have a non-profit organization named SHIELD that is mainly dedicated to work for the underprivileged poor people of Bangladesh to improve their lifestyle and acheive their basic rights. Additionally, I am also working as a researcher at Stellar Futures Initiative, shortly [SFI-X](https://ziad786.github.io). My professional endeavors aim to maximize the quality of life for individuals by operating at the intersection of education, technology, and health research.
 
 I am interested in health science while focusing on bridging the gap between computational and experimental laboratories through highly engaging and fruitful collaborations.
 
 
 Experience
 ======
-**Founder** | [Blind for Education](https://blindforeducation.wordpress.com/) |<br>Dhaka, Bangladesh | (2017 - Present)<br>
+**Founder** | [Blind for Education](https://ziad786.github.io) |<br>Dhaka, Bangladesh | (2017 - Present)<br>
 <br>
 **Founder** | [SHIELD] |<br>Dhaka, Bangladesh | (2022 - Present)<br>
 <br>
