@@ -16,9 +16,7 @@ Experience
 ======
 **Founder** | [Blind for Education](https://ziad786.github.io) |<br>Dhaka, Bangladesh | (2017 - Present)<br>
 <br>
-**Founder** | [SHIELD] |<br>Dhaka, Bangladesh | (2022 - Present)<br>
-<br>
-**Junior Researcher** | [Youth Research Journal](https://yrjournal.org/) |<br>Dhaka, Bangladesh | (2023)<br>
+**Founder** | SHIELD |<br>Dhaka, Bangladesh | (2022 - Present)<br>
 <br>
 **ASSISTANT GENERAL SECRETARY** | [GSCPC‑ Government Science College Photography Club](https://www.facebook.com/GSCPC) |<br>Dhaka, Bangladesh | (2022 ‑ 2023)<br>
 <br>
