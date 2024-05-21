@@ -18,6 +18,8 @@ Experience
 <br>
 **Founder** | SHIELD |<br>Dhaka, Bangladesh | (2022 - Present)<br>
 <br>
+**Research Assistant** | CHIRAL Bangladesh |<br>Dhaka, Bangladesh | (2024 - Present)<br>
+<br>
 **ASSISTANT GENERAL SECRETARY** | [GSCPC‑ Government Science College Photography Club](https://www.facebook.com/GSCPC) |<br>Dhaka, Bangladesh | (2022 ‑ 2023)<br>
 <br>
 **OFFICE SECRETARY** | [Govt. Science College Debating Club (GSCDC)](https://www.facebook.com/gscdebatingclub) |<br>Dhaka, Bangladesh | (2022 ‑ 2023)<br>
